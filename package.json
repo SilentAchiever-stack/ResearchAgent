@@ -1,0 +1,13 @@
+{
+  "name": "research-agent",
+  "version": "1.0.0",
+  "main": "researchAgent.js",
+  "scripts": {
+    "start": "node researchAgent.js",
+    "cli": "node researchAgent.js --cli"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
